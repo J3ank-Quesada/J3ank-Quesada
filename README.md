@@ -21,9 +21,9 @@
 
 ---
 
-### 🛠 Projects (from Resume)
+### 🛠 Projects
 
-#### 🧩 **Monitoring System (SOIN)**
+#### 🧩 **Monitoring System**
 - Real-time tracking & analytics
 - Built component library with HeroUI
 - Dynamic forms from JSON
@@ -63,16 +63,6 @@
 
 - 📧 jeankquesada@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jean-quesada/)
-
----
-
-### 📌 Pinned Repositories
-
-> Showcase your best work by pinning repos like:
-> - Authentication microservice (React + OAuth2)
-> - Notification microservice (Express + AWS SDK)
-> - Digital Prescription UI (Next.js + Tailwind)
-> - Dynamic Form Generator
 
 ---
 
