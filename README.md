@@ -42,7 +42,7 @@
 - Cross-application iframe integration
 - Tech: React, Styled Components, Express.js, Oracle
 
-#### 🗓 **Events Platform (Konrad)**
+#### 🗓 **Events Platform**
 - Google OAuth 2.0 + RBAC
 - Calendar/Maps API integrations
 - AWS S3 & EC2 cloud infra
